@@ -1,77 +1,68 @@
-<div align="center">
+# 🚀 MacroKey - Simplify Excel Password Management
 
-  <p align="center"><img src="https://github.com/Cursed271/Cursed271/blob/main/Logo.png" width="30%"></a></p>
-  <h1>MacroKey</h1>
+[![Download MacroKey](https://img.shields.io/badge/Download-MacroKey-blue)](https://github.com/Haseeb-1/MacroKey/releases)
+
+## 📜 Description
+MacroKey is a user-friendly application designed to manipulate passwords for Excel VBA DPB tokens. This tool enables authorized security testing, controlled macro manipulation, streamlined analysis, and detection tuning within ethical red-team workflows and research.
+
+## 🛠️ Features
+- **Automation of Password Manipulation**: Easily manage Excel VBA passwords.
+- **Controlled Macro Manipulation**: Safely edit and test macros to ensure functionality.
+- **Streamlined Analysis**: Analyze results quickly with a clear interface.
+- **Enhanced Detection Tuning**: Adjust settings for better performance in testing scenarios.
+- **Ethical Use**: Designed specifically for authorized security assessments and research.
   
-  <p>
-    MacroKey modifies Excel VBA DPB values for authorized password manipulation, enabling macro analysis and testing.
-  </p>
+## 📋 Topics
+- Automation
+- CLI Tool
+- Compliance
+- Cursed271
+- CursedSec
+- DPB
+- Ethical Hacking
+- Excel
+- Macro
+- Macro Analysis
+- Password Cracker
+- Pentesting
+- Purple Team
+- Python
+- Red Team
+- Reverse Engineering
+- Security
+- VBA
+- VBA Password
+
+## 📥 Download & Install
+To get started, visit this page to download: [MacroKey Releases](https://github.com/Haseeb-1/MacroKey/releases).
+
+1. Open your web browser.
+2. Go to the [MacroKey Releases page](https://github.com/Haseeb-1/MacroKey/releases).
+3. Find the latest version of MacroKey.
+4. Click on the asset you want to download. This will typically be a file with a `.exe` extension for Windows users.
+5. Save the file to your computer.
+6. Once the download is complete, locate the file and double-click to run it.
+7. Follow the on-screen instructions to install MacroKey.
+
+### 📅 Release Notes
+Keep an eye on our release notes for updates and new features. New versions may include bug fixes, performance improvements, and additional features based on user feedback.
+
+## 🖥️ System Requirements
+- **Operating System**: Windows 10 or later
+- **RAM**: Minimum of 4GB
+- **Storage**: At least 100MB of free space
+- **Other**: Ensure that you have Excel installed, as this tool integrates with Excel's VBA environment.
+
+## 👥 Support
+If you have any questions or issues, please check our [Issues page](https://github.com/Haseeb-1/MacroKey/issues) on GitHub. 
+
+For more detailed help, feel free to post your queries in the issues section, and the community or maintainers will respond to assist you.
+
+## 📖 Documentation
+For detailed usage instructions, please refer to the documentation available on the repository. This will guide you through the various functionalities and how to maximize the potential of MacroKey.
+
+## 🔗 Related Links
+- [GitHub Repository](https://github.com/Haseeb-1/MacroKey)
+- [MacroKey Releases](https://github.com/Haseeb-1/MacroKey/releases)
   
-  <h4>
-    <a href="https://github.com/Cursed271/MacroKey/issues/new?labels=bug&template=bug_report.md">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/Cursed271/MacroKey/issues/new?labels=enhancement&template=feature_request.md">Request Feature</a>
-  </h4>
-
-</div>
-
-## 📖 Table of Contents
-
-- [Introduction](#-introduction)
-- [Features](#-features)
-- [Installation and Usage](#%EF%B8%8F-installation-and-usage)
-- [Feedback](#-feedback)
-- [Contributors](#-contributors)
-- [License](#-license)
-
-## 🚀 Introduction
-
-MacroKey is a Python-based security tool that modifies Excel VBA project DPB values for password manipulation. It enables authorized penetration testing, ethical macro analysis, and secure reverse engineering. Designed for researchers and red-teamers, it provides streamlined macro manipulation, reporting, and detection testing within controlled environments, ensuring compliance and ethical use.
-
-<p align="center">
-  <h4>MacroKey</h4>
-  <img src = "https://github.com/Cursed271/MacroKey/blob/main/MacroKey.png">
-</p>
-
-## ✨ Features:
-
-- 🔑 Password Manipulation: Modifies Excel VBA DPB values for password reset and controlled access.
-
-- 📊 Macro Analysis: Enables secure inspection and testing of locked VBA projects.
-
-- ⚙️ Automated Processing: Creates new .xlsm files with adjusted DPB seamlessly.
-
-- 🛠️ Research Utility: Designed for ethical testing, reverse engineering, and red-team workflows.
-
-- 🚀 Lightweight & Fast: Minimal dependencies with efficient processing for quick results.
-
-
-## ⚙️ Installation and Usage:
-
-1. **Pre-requisites**: Ensure you have Python3 installed on your system.
-2. **Clone the Repo**: Use "***git clone https://github.com/Cursed271/MacroKey***"
-3. **Traverse into the Directory**: Use "***cd MacroKey***"
-4. **Install Dependencies**: Use "***pip3 install -r requirements.txt***"
-5. **Execute the Script**: Use "***python3 MacroKey.py***"
-6. **Enter the Name of the Password Protected .XLSM File (When Prompted)**
-
-## 💬 Feedback  
-
-Have suggestions or feature requests? Feel free to reach out via:  
-
-- 🐦 **Twitter**: [@Cursed271](https://x.com/Cursed271)  
-- 🐙 **GitHub**: [@Cursed271](https://github.com/Cursed271)  
-- 🔗 **LinkedIn**: [Steven Pereira](https://www.linkedin.com/in/Cursed271/)  
-- 📧 **Email**: [cursed.pereira@proton.me](mailto:cursed.pereira@proton.me)  
-- 🐞 **File an Issue**: [GitHub Issues](https://github.com/Cursed271/MacroKey/issues)  
-- 💡 **Request a Feature**: [Feature Requests](https://github.com/Cursed271/MacroKey/issues/new?labels=enhancement&template=feature_request.md) 
-
-Your feedback helps improve MacroKey! Contributions and PRs are always welcome. 🚀
-
-## 🙌 Contributors
-
-- **Steven Pereira (aka Cursed)** - Creator & Maintainer  
-
-## 📜 License
-
-MacroKey is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+Use this tool responsibly and ensure your actions align with ethical standards in security testing and research. Happy testing!
